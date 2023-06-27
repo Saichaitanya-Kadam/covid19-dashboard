@@ -1,0 +1,31 @@
+.india-wide-cases-container {
+  display: flex;
+  width: 80%;
+  justify-content: space-between;
+  align-self: center;
+}
+.case-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.cases-description {
+  font-size: 16px;
+  font-weight: 500;
+}
+.cases-count {
+  font-size: 24px;
+  font-weight: 500;
+}
+.active {
+  color: #007bff;
+}
+.confirmed {
+  color: #ff073a;
+}
+.deceased {
+  color: #6c757d;
+}
+.recovered {
+  color: #28a745;
+}

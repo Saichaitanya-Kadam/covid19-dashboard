@@ -1,0 +1,11 @@
+.state-nav-link {
+  text-decoration: none;
+  color: #f1f5f9;
+}
+.cases-count {
+  font-size: 14px;
+  font-weight: 500;
+}
+.population {
+  color: #94a3b8;
+}

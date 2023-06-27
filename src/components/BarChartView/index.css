@@ -1,0 +1,43 @@
+.graph-container {
+  display: flex;
+  justify-content: center;
+}
+.daily-spreads-heading {
+  color: #cbd5e1;
+  font-size: 32px;
+  font-weight: 500;
+}
+.lineChart-container-deceased {
+  background-color: #1c1c2b;
+  padding: 30px 0px;
+  margin-bottom: 50px;
+}
+.lineChart-container-active {
+  background-color: #132240;
+  padding: 30px 0px;
+  margin-bottom: 50px;
+}
+
+.lineChart-container-recovered {
+  background-color: #182829;
+  padding: 30px 0px;
+  margin-bottom: 50px;
+}
+
+.lineChart-container-tested {
+  background-color: #230f41;
+  padding: 30px 0px;
+  margin-bottom: 50px;
+}
+.lineChart-container-confirmed {
+  background-color: #331427;
+  padding: 30px 0px;
+  margin-bottom: 50px;
+}
+.loader-container-barCharts {
+  display: flex;
+  flex-direction: column;
+  height: 50vh;
+  align-items: center;
+  justify-content: center;
+}

@@ -1,0 +1,34 @@
+.about-heading {
+  color: #f8fafc;
+}
+.about-description {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  color: #94a3b8;
+}
+h2 {
+  color: #e2e8f0;
+  font-size: 24px;
+}
+.faqs-list {
+  list-style: none;
+  padding-left: 0px;
+  margin-bottom: 30px;
+}
+
+.faq-question {
+  color: #94a3b8;
+}
+
+.faq-answer {
+  color: #007bff;
+}
+.loader-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+}

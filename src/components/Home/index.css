@@ -1,0 +1,33 @@
+.home-main-container {
+  background: #161625;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+.home-content-container {
+  padding: 0px 150px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.search-container {
+  background: #2f2f43;
+  height: 40px;
+  display: flex;
+  width: 50%;
+  align-self: center;
+  align-items: center;
+  padding: 0px 30px;
+  margin-top: 50px;
+  color: #94a3b8;
+  margin-bottom: 0px;
+}
+input {
+  flex-grow: 1;
+  background: #2f2f43;
+  border: none;
+  outline: none;
+  color: #94a3b8;
+  margin-left: 6px;
+  font-size: 16px;
+}
