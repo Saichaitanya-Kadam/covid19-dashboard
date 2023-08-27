@@ -7,7 +7,6 @@
     "npm": ">=6"
   },
   "main": "index.js",
-  "homepage": "https://saichaitanyakadam.github.io/covid19-miniproject/",
   "dependencies": {
     "@testing-library/jest-dom": "5.11.9",
     "@testing-library/react": "11.2.5",
